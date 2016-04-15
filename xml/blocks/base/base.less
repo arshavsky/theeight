@@ -1,0 +1,52 @@
+
+// Colors
+@color-black:            #000;
+@color-white:            #fff;
+@color-gold:             #FFCC00;
+@color-gray:             #DADADA;
+@color-grey:             @color-gray;
+@color-link:             @color-white;
+
+// Values
+@button-radius: 10px;
+
+.button-radius {
+  border-radius: @button-radius;
+}
+
+// Font sizes
+@size-minor: 12px;
+@size-p:     17px;
+@size-p2:    27px;
+
+ 
+// Line-heights
+@height-minor: 14px;
+@height-p: 24px;
+@height-p2: 40px;
+
+// Fonts
+@font-sans: Helvetica, Arial, sans-serif;
+
+// Text
+.text-regular {
+    font-size: @size-p;
+    line-height: @height-p;
+    font-family: @font-sans;
+    letter-spacing: .5px;
+}
+
+.text-title {
+    font-size: @size-h1;
+    line-height: @height-h1;
+    font-family: @font-major;
+    letter-spacing: .6px;
+}
+
+.text-caps {
+    font-size: @size-minor;
+    line-height: @height-minor;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+}
+

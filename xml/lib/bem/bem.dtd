@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!ATTLIST xsl:stylesheet xmlns:xsl   CDATA "http://www.w3.org/1999/XSL/Transform">
+<!ATTLIST xsl:stylesheet xmlns:exsl  CDATA "http://exslt.org/common">
+<!ATTLIST xsl:stylesheet xmlns:str   CDATA "http://exslt.org/strings">
+<!ATTLIST xsl:stylesheet xmlns:math  CDATA "http://exslt.org/math">
+<!ATTLIST xsl:stylesheet xmlns:func  CDATA "http://exslt.org/functions">
+<!ATTLIST xsl:stylesheet xmlns:set   CDATA "http://exslt.org/sets">
+<!ATTLIST xsl:stylesheet xmlns:xi    CDATA "http://www.w3.org/2001/XInclude">
+<!ATTLIST xsl:stylesheet xmlns:x     CDATA "http://www.yandex.ru/xscript">
+<!ATTLIST xsl:stylesheet xmlns:bem   CDATA "urn:bem">
+<!ATTLIST xsl:stylesheet xmlns:b     CDATA "urn:b">
+<!ATTLIST xsl:stylesheet xmlns:e     CDATA "urn:e">
+<!ATTLIST xsl:stylesheet xmlns:m     CDATA "urn:m">
+<!ATTLIST xsl:stylesheet xmlns:l     CDATA "urn:l">
+<!ATTLIST xsl:stylesheet xmlns:i     CDATA "urn:i">
+<!ATTLIST xsl:stylesheet xmlns:f     CDATA "urn:f">
+
+<!ATTLIST xsl:stylesheet version                    CDATA "1.0">
+<!ATTLIST xsl:stylesheet exclude-result-prefixes    CDATA "exsl bem b e m l i f str xi">
+<!ATTLIST xsl:stylesheet extension-element-prefixes CDATA "exsl bem func f str xi">
+
+<!ATTLIST b-page xmlns:b      CDATA "urn:b">
+<!ATTLIST b-page xmlns:e      CDATA "urn:e">
+<!ATTLIST b-page xmlns:m      CDATA "urn:m">
+<!ATTLIST b-page xmlns:l      CDATA "urn:l">
+<!ATTLIST b-page xmlns:i      CDATA "urn:i">
+<!ATTLIST b-page xmlns:xi     CDATA "http://www.w3.org/2001/XInclude">
+<!ATTLIST b-page xmlns:bem    CDATA "urn:bem">
+<!ATTLIST b-page xmlns:x      CDATA "http://www.yandex.ru/xscript">
+
+<!ENTITY thinsp "&#8201;">
+<!ENTITY nbsp   "&#160;">
+<!ENTITY nl     "&#10;">
+<!ENTITY quot   "&#34;">
+<!ENTITY and   "&#38;">
+<!ENTITY minus  "−">
+<!ENTITY mult   "×">
+<!ENTITY check  "✓">
+<!ENTITY rarr   "→">
+<!ENTITY larr   "←">
+<!ENTITY tarr   "↑">
+<!ENTITY barr   "↓">
+<!ENTITY star   "★">
+<!ENTITY return "↵">
+<!ENTITY middot "·">
+<!ENTITY bull   "•">

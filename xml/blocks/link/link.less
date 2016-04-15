@@ -1,0 +1,40 @@
+@import "../base/base.less";
+
+
+
+.b-link {
+    
+    display: inline;
+    color: @color-grey;
+    
+    &_type_white {
+        color: @color-white;
+    }
+
+    &_type_ghost {
+    	text-decoration: none;
+    	color: @color-gray;
+
+    	&:hover {
+    		text-decoration: none;
+    		color: @color-black;
+    	}
+    }
+
+    &_hover_white {
+        &:hover {
+            color: @color-white !important;
+        }
+    }
+
+    &_bigarea_true {
+        padding: 15px;
+        margin: -15px;
+    }
+    
+}
+
+a {text-decoration: none;}
+a:hover {text-decoration: underline;}
+
+

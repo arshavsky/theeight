@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xsl:stylesheet SYSTEM "../lib/bem/bem.dtd">
+
+<page title="The Eight">
+	
+	<b-menu grid="main">
+		<item href="#">building</item>
+		<item href="#">apartments</item>
+		<item href="#">floor plans</item>
+		<item href="#">locaion</item>
+		<item href="#">developer</item>
+		<item href="#">faq</item>
+		<item href="#">contact</item>
+	</b-menu>
+
+	<!--<b-intro video="video/background.mp4" grid="value">
+		<b-logo img="i/logo.jpg"/>
+		<b-button href="#">Learn more</b-button>
+	</b-intro>
+
+	<b-section title="building" mode="regular" grid="value">
+		<b-carousel>
+			<item type="img-day"></item>
+			<item type="img-night"></item>
+			<item type="img-lobby"></item>
+			<item type="img-pano"></item>
+		</b-carousel>
+		<heading>Boutique Development</heading>
+		<text>Award-winning Hulena Architects Limited have teamed with Core City to create The James, a 7 level apartment building on Khyber Pass Road. Located in double Grammar Zone, and walking distance from The University of Auckland’s Newmarket and Grafton Medical School Campuses, The James is perfectly located for education. As with all buildings Core City develops, The James has been designed with a refined living experience in mind. Large apartment sizes, air conditioning throughout and double glazing, combined with hand selected Italian fixtures and fittings, means that The James offers a stylish lifestyle like no other.
+		</text>
+	</b-section>
+
+	<b-section title="apartments" mode="regular">
+		<b-carousel>
+			<item type="img-living"></item>
+			<item type="img-living-2"></item>
+			<item type="img-living-3"></item>
+			<item type="img-kitchen"></item>
+			<item type="img-bedroom"></item>
+			<item type="img-bathroom"></item>
+		</b-carousel>
+		<heading>Premium Design &amp; Quality</heading>
+		<text>The James residences have been designed with form, function and style in mind. Innovative design, lofty 2.7m stud heights and floor to ceiling windows height windows add to the spaciousness of each apartment. Modern- day living has been considerated, with individual air-conditioning systems to each apartment allowing heating or cooling as you desire, along with the latest power saving LED lighting systems. In addition, each unit comes with its own secure, large storage room.The James has been designed with the requirements of the most discerning owners in mind in order to create a modern, elegant, and luxurious home.
+		</text>
+	</b-section>
+
+	<b-faq title="apartments">
+		<question title="What's in the area?">The James is centrally located with access to northern, western and southern motorways only 3 minutes drive away. The CBD is an 8 minute drive away, whilst Auckland International Airport is only 25 minutes drive away. Mercy, Starship and Auckland Hospitals are walking distance from the building. The University of Auckland Newmarket Campus is directly across the road, and the University of Auckland Medical School is within walking distance. The thriving hub of Newmarket offers cinemas, gyms, boutique retail, and the business centre of Carlton Gore Road.
+		</question>
+
+		<question title="Is my apartment secure?">Yes. The James has been designed with security in mind. Swipe card access is required to enter the building and activate the lift enabling individual owners to access their floor level plus garage and the storage levels. Each apartment and allocated storeroom will have their own individual keyed access. A separate intercom system links individual apartments with the entry. A fire detection system and alarm system protects all apartments and common areas. The building is fully sprinklered.
+		</question>
+	</b-faq>
+
+	<b-section title="floor-plans" mode="floor-plans"></b-section>
+
+	<b-section title="location" mode="location"></b-section>
+
+	<b-section title="developer" mode="regular"></b-section>
+
+	<b-faq title="faq"></b-faq>
+	
+	<b-contact>
+		<map name=""></map>
+		<agents>
+			<item type="herbert" mobile="+6421 158 2644" email="himself@herbert.com" agency="baileys">Name Herbert</item>
+			<item type="vonbraun">Name Von Braun</item>
+			<item type="goddard">Name Goddard</item>
+		<agents>
+	</b-contact>
+	
+	<b-footer>
+		<b-copyright>Copyright. The Eight Limited.</b-copyright>
+		<link target="_blank" href="#">Core City Group</link>
+		<lemni></lemni>
+	</b-footer>-->
+</page>
